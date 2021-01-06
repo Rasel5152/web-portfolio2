@@ -1,0 +1,90 @@
+body{
+    margin: ;
+    font-family: 'poppins' , sans-serif;
+
+
+}
+h1{
+    font-size: 50px;
+    color: rgb(41, 54, 88);
+    
+}
+h2{
+    font-size: 30px;
+    color: rgb(41, 54, 88) ;
+   font-style: initial;
+}
+h3{
+    font-size: 22px;
+    color: rgb(41, 54, 88);
+    text-align: left;
+    font-style: initial;
+ 
+}
+.orange-hightlight{
+    color: rgb(236, 120, 12);
+}
+h1{
+    font-size: 50px;
+    font-style: initial;
+}
+.link-button{
+  text-decoration: none;
+  background-color: rgb(240, 110, 35);
+  padding: 12px;
+  border-radius: 4px;
+  font-weight: 500px;
+  color: aliceblue;
+  font-size: small;
+}
+.lastet{
+    text-align: center;
+    font-style: initial;
+ 
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 4%;
+}
+.half-width img{
+    width: 80%;
+}
+section{
+    height: 500px;
+}
+.column{
+    float: left;
+    width: 33.33%;
+    padding: table;
+    margin: 65px;
+    
+}
+.row{
+    display: flex;
+    padding: 5px;
+}
+.single-experience{
+    box-shadow: 10px 10px 10px rgb(240, 232, 232);
+    border-radius: 10px;
+    height: 90%;
+    
+}
+.work-inquiry{
+  height: 300px;
+  width: 100%;
+  background-image: url(images/Group_33094_1.png);
+  background-size: cover;
+  text-align: left;
+}
+
+
+
+
+ 
+
+
+
+
